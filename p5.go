@@ -89,7 +89,7 @@ func tailPalindrome(s string) (slen int, str string) {
 	}
 }
 
-func main() {
-	s := longestPalindrome("a")
-	fmt.Println(s)
-}
+// func main() {
+// 	s := longestPalindrome("a")
+// 	fmt.Println(s)
+// }
