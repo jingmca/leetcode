@@ -54,6 +54,6 @@ func check(s int32) bool {
 	return true
 }
 
-func main() {
-	fmt.Println(myAtoi("-4193 with words"))
-}
+// func main() {
+// 	fmt.Println(myAtoi("-4193 with words"))
+// }
