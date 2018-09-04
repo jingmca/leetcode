@@ -58,7 +58,7 @@ func minIndex(s string, excpte int) int {
 	return index
 }
 
-func main() {
+// func main() {
 
-	fmt.Println(orderlyQueue("xxqjzq", 2))
-}
+// 	fmt.Println(orderlyQueue("xxqjzq", 2))
+// }
