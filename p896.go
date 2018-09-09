@@ -1,9 +1,5 @@
 package main
 
-import (
-	"fmt"
-)
-
 func isMonotonic(A []int) bool {
 	if len(A) < 2 {
 		return true
@@ -30,6 +26,6 @@ func isMonotonic(A []int) bool {
 	return true
 }
 
-func main() {
-	fmt.Println(isMonotonic([]int{4, 4, 4, 4}))
-}
+// func main() {
+// 	fmt.Println(isMonotonic([]int{4, 4, 4, 4}))
+// }
