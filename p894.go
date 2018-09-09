@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 //TreeNode ...
 type TreeNode struct {
 	Val   int
@@ -45,4 +47,8 @@ func allPossibleFBT(N int) []*TreeNode {
 
 	return forest[N]
 
+}
+
+func main() {
+	fmt.Println(len(allPossibleFBT(17)))
 }
