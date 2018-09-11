@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+RLEIterator	../p900.py	/^class RLEIterator(object):$/;"	kind:class	line:1
+Solution	../p1.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	../p42.py	/^class Solution(object):$/;"	kind:class	line:1
+Solution	../p6.py	/^class Solution(object):$/;"	kind:class	line:1
+__init__	../p900.py	/^    def __init__(self, A):$/;"	kind:member	line:3
+compute_space	../p6.py	/^    def compute_space(self, last_spaces, num_rows, keep_zeros):$/;"	kind:member	line:36
+convert	../p6.py	/^    def convert(self, s, numRows):$/;"	kind:member	line:2
+next	../p900.py	/^    def next(self, n):$/;"	kind:member	line:11
+obj	../p900.py	/^obj = RLEIterator([3,8,0,9,2,5])$/;"	kind:variable	line:19
+p1.py	../p1.py	1;"	kind:file	line:1
+p42.py	../p42.py	1;"	kind:file	line:1
+p6.py	../p6.py	1;"	kind:file	line:1
+p900.py	../p900.py	1;"	kind:file	line:1
+s	../p42.py	/^s = Solution()$/;"	kind:variable	line:63
+s	../p6.py	/^s = Solution()$/;"	kind:variable	line:45
+trap	../p42.py	/^    def trap(self, height):$/;"	kind:member	line:2
+twoSum	../p1.py	/^    def twoSum(self, nums, target):$/;"	kind:member	line:2
