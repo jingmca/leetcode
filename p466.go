@@ -46,7 +46,7 @@ func getMaxRepetitions(s1 string, n1 int, s2 string, n2 int) int {
 
 }
 
-func main() {
-	// fmt.Println(getMaxRepetitions("niconiconi", 99981, "nico", 81))
-	fmt.Println(getMaxRepetitions("aaa", 3, "aa", 1))
-}
+// func main() {
+// 	// fmt.Println(getMaxRepetitions("niconiconi", 99981, "nico", 81))
+// 	fmt.Println(getMaxRepetitions("aaa", 3, "aa", 1))
+// }
