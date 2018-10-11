@@ -36,7 +36,7 @@ func union(a pNode, b pNode) {
 		fmt.Printf("%d is linking to %d\n", b.key, a.key)
 	} else {
 		rootA.parent = rootB
-		if rootB.rank == rootB.rank {
+		if rootA.rank == rootB.rank {
 			rootB.rank++
 		}
 		fmt.Printf("%d is linking to %d\n", a.key, b.key)
